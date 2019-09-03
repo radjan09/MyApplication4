@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="688dp"
+            android:inputType="textPersonName"
+            android:text="
+To perform a scanning of the network press the discover.
+To send a signal to all devices connected to the network click on frizz.
+"
+            android:ems="8"
+            android:id="@+id/helpText"/>
+</LinearLayout>
